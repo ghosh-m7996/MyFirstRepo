@@ -8,5 +8,8 @@ public class myLab2File {
         int sum = first + second;
 
         System.out.println("The sum is: " + sum);
+
+        int difference = second - first;
+        System.out.println("\nThe difference is: " + difference);
     }
 }
