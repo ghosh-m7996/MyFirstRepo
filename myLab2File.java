@@ -11,5 +11,8 @@ public class myLab2File {
 
         int difference = second - first;
         System.out.println("\nThe difference is: " + difference);
+
+        int product = second * first;
+        System.out.println("\nThe product is: " + product);
     }
 }
